@@ -1,4 +1,4 @@
-### Hello everone
+### my github
 
 <!--
 **oheunchan07/oheunchan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
